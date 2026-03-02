@@ -4,4 +4,8 @@ h1 {
 p {color:black}
 li  {color :violet}
 ul  {color:black}
-.element { border-right: 3px #F9D923 double;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
