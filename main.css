@@ -4,8 +4,15 @@ h1 {
 p {color:black}
 li  {color :violet}
 ul  {color:black}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+button {
+  background-color: #4CAF50; /* vert */
+  color: white; /* texte blanc */
+  padding: 10px 20px; /* espace autour du texte */
+  border: none; /* supprime le contour par défaut */
+  border-radius: 5px; /* coins arrondis */
+  cursor: pointer; /* change le curseur au survol */
+}
+img {
+  border-radius: 10px;
+  border: 2px solid black;
 }
