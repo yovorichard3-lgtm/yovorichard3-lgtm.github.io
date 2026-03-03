@@ -1,19 +1,35 @@
-body {background-color:white;color:#000;}
-h1 {
-    color: #000;
+:root{
+  --bg:black;
+  --text:white;
+  --btn:#e5e7eb;
+
 }
-p {color:black}
-li  {color :black}
-ul  {color:black}
+:root.theme-light{
+  --bg:white;
+  --text:black;
+  --btn:#000827;
+
+}
+
+
+
+
+
+
+
+
+
+body {background-color:var(--bg);color:var(--text);}
+
 button {
-  background-color: #000 }; /* vert */
-  color :white ; /* texte blanc */
-  padding: 5px 10px; /* espace autour du texte */
-  border: none; /* supprime le contour par défaut */
-  border-radius: 10px; /* coins arrondis */
-  cursor: pointer; /* change le curseur au survol */
+  background-color:var(--btn) ;
+  color :var(--text) ; 
+  padding: 5px 10px;
+  border: none; 
+  border-radius: 10px;
+  cursor: pointer;   
 }
 img {
   border-radius: 10px;
-  border: 2px solid rgb(9, 7, 7); 
+  border: 2px solid rgba(9, 7, 7, 0.294); 
 } 
