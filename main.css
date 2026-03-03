@@ -29,6 +29,9 @@ button {
   border-radius: 10px;
   cursor: pointer;   
   background-color: blue;
+  width: 10em;
+  height: 5ex;
+  font-weight: bold;
 }
 img {
   border-radius: 10px;
