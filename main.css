@@ -21,7 +21,7 @@
 
 body {background-color:var(--bg);color:var(--text);}
 
-button  :hover{background-color: rgb(9, 176, 195);
+button  {
   width: 10em;
   height: 5ex;
   background-color:var(--btn) ;
