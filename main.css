@@ -1,6 +1,6 @@
 :root{
   --bg:black;
-  --text:white;
+  --text:rgb(87, 21, 202);
   --btn:#e5e7eb;
   --btb:rgb(179, 12, 137);
   --btnbg:azure;
@@ -8,7 +8,7 @@
 }
 :root.theme-light{
   --bg:white;
-  --text:black;
+  --text:rgb(87, 21, 202);
   --btn:#000827;
   --btnbg:azure;
   --btb:rgb(179, 12, 137);
