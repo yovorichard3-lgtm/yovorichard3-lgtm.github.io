@@ -1,9 +1,9 @@
 const translations ={
     fr:{
-        tittle: "je ne sais pas",
+        tittle: "CV JOB ETUDIANT",
     },
     en:{
-        tittle: "i don't know",
+        tittle: "STUDENT JOB CV",
     },
     fr:{
         desc: "EXPERIENCES PROFESSIONNELLES",
