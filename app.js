@@ -30,7 +30,7 @@ function applyTheme(theme) {
         if(value) el.textContent= value
     })
     const btnlang= document.querySelector("#btn-lang")
-    btnlang.textContent=lang
+    btnlang.textContent= lang === "fr"? "en": "fr"
  }
  
 
