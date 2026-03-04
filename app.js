@@ -5,6 +5,13 @@ const translations ={
     en:{
         tittle: "i don't know",
     },
+    fr:{
+        desc: "EXPERIENCES PROFESSIONNELLES",
+    },
+    en:{
+        desc: "PROFESSIONNAL EXPERIENCES"
+    }
+
 
 }
 
