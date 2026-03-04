@@ -11,6 +11,10 @@ const translations ={
         cls:"6e SECONDAIRE",
         qurt:"Rue de Dave",
         ct:"CENTRE D'INTERET",
+        sf:"Sport : Football",
+        mc:"Musique et culture",
+        cp:"COMPETENCES",
+        tsp:"Travailleur, serieux,polyvalent",
     },
     en:{
         tittle: "STUDENT JOB CV",
@@ -23,7 +27,11 @@ const translations ={
         crd:"CONTACT DETAILS",
         cls:"SECONDARY 6",
         qurt:"Dave Street",
-        ct:"CENTER OF INTEREST"
+        ct:"CENTER OF INTEREST",
+        sf:"Sport: Soccer",
+        mc:"Music and culture",
+        cp:"SKILLS",
+        tsp:"Hardworking, serious, versatile"
 
         
     },
