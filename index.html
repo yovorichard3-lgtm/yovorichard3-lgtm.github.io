@@ -60,10 +60,33 @@
         
        
         
+<script></script> lucide.createIcons(moon);</script>
 <script>
-  lucide.createIcons();
+import { createIcons, sun } from 'lucide';
+
+createIcons({
+  icons: {
+    sun
+  }
+});
 </script>
+
+<script>
+import { createIcons, moon } from 'lucide';
+
+createIcons({
+  icons: {
+    moon
+  }
+});
+</script>
+
+<i data-lucide="moon"></i>  
+
+<i data-lucide="sun"></i>  
+
    <script src="app.js"></script>   
-   <script src="https://unpkg.com/lucide@latest"></script>  
+
+   <script src="https://unpkg.com/lucide@x.xxx.x/dist/umd/lucide.min.js"></script>  
     </body>
 </html>
