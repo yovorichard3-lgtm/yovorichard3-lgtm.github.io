@@ -9,8 +9,14 @@ const translations ={
         desc: "EXPERIENCES PROFESSIONNELLES",
     },
     en:{
-        desc: "PROFESSIONNAL EXPERIENCES"
-    }
+        desc: "PROFESSIONNAL EXPERIENCES",
+    },
+    fr:{
+        trad:"2023 Aide ponctuelle",
+    },
+    en:{
+        trad:"2023 One-off assistance",
+    },
 
 
 }
