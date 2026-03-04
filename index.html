@@ -53,20 +53,20 @@
     <i data-lucide="sun"></i>
     <i data-lucide="moon"></i>
     
-  <script>
-const button = document.getElementById("themeToggle");
+ <button id="themeToggle">
+  <i data-lucide="moon"></i>
+</button>
 
-button.addEventListener("click", function() {
-  document.body.classList.toggle("dark-mode");
+<script src="https://unpkg.com/lucide@latest"></script>
 
-  if (document.body.classList.contains("dark-mode")) {
-    button.innerHTML = '<i data-lucide="sun"></i>';
-  } else {
-    button.innerHTML = '<i data-lucide="moon"></i>';
-  }
-
+<script>
   lucide.createIcons();
-});
+
+  const button = document.getElementById("themeToggle");
+
+  button.addEventListener("click", function() {
+    document.body.classList.toggle("dark-mode");
+  });
 </script>
     
         
