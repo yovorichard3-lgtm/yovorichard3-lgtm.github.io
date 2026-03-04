@@ -26,7 +26,7 @@ function applyTheme(theme) {
     const dict =translations[lang]
     document.querySelectorAll("[data-i18n]").forEach((el)=>{
         const key=el.getAttribute("data-i18n")
-        const value= dict[key]
+        const value= dict?.[key]
         if(value) el.textContent= value
     })
     const btnlang= document.querySelector("#btn-lang")
