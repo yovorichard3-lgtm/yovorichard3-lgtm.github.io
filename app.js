@@ -1,11 +1,13 @@
 const translations ={
     fr:{
         tittle: "CV JOB ETUDIANT",
-        desc: "EXPERIENCES PROFESSIONNELLES"
+        desc: "EXPERIENCES PROFESSIONNELLES",
+        btn:"2023 Aide ponctuelle",
     },
     en:{
         tittle: "STUDENT JOB CV",
-        desc: "PROFESSIONNAL EXPERIENCES"
+        desc: "PROFESSIONNAL EXPERIENCES",
+        btn:"2023 One-off Assistance"
         
     },
     
