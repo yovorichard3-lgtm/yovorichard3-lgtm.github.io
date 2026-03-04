@@ -1,11 +1,10 @@
 function applyTheme(theme) {
     document.documentElement.classList.toggle("theme-light", theme === "light")
-    const btnTheme = document.querySelector("#btn-theme")
-    const icon = btnTheme.querySelectorAll('> i')[0]
-
-    icon.dataset.lucide = theme === "light" ? "moon" : "sun"
+    const iconTheme = document.querySelector("#icon-theme")
+    iconTheme.setAttribute("data-lucide",theme === "light" ? "moon" : "sun" ) 
+    lucide.createIcons(); 
 }
-
+  
  
 
 
@@ -14,7 +13,7 @@ function applyTheme(theme) {
 
 
 (function init(){
-
+    lucide.createIcons();       
     const savedTheme = localStorage.getItem("theme") 
 
     applyTheme(savedTheme);
