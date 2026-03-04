@@ -43,4 +43,4 @@ applyLang(savedLang)
         applyTheme(next)
     })
 
-}) ( )
+}) 
