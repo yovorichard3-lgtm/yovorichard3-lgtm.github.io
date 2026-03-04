@@ -13,9 +13,9 @@ function applyTheme(theme) {
 
 (function init(){
 
-    const savedTheme = localStorage.getItem("theme")
+    const savedTheme = localStorage.getItem("theme") ="light"
 
-    applyTheme(savedTheme)
+    applyTheme(savedTheme);
 
     document.querySelector("#btn-theme").addEventListener("click", () => {
         const isLight = document.documentElement.classList.contains("theme-light")
@@ -25,11 +25,4 @@ function applyTheme(theme) {
     })
 
 }) ( )
-
-import {moon, sun} from "lucide";
-createIcons({
-    Icons:{
-        moon,
-        sun,
-    }
-});
+lucide.createIcons();
