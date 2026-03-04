@@ -26,4 +26,3 @@ function applyTheme(theme) {
 
 }) ( )
 
-  
