@@ -40,9 +40,12 @@ function applyTheme(theme) {
 
 (function init(){
     lucide.createIcons();       
-    const savedTheme = localStorage.getItem("theme") 
 
+    const savedTheme = localStorage.getItem("theme") 
     applyTheme(savedTheme);
+
+    const savedLang = localStorage.getItem("lang") 
+    applyLang(savedLang);
 
     document.querySelector("#btn-theme").addEventListener("click", () => {
         const isLight = document.documentElement.classList.contains("theme-light")
