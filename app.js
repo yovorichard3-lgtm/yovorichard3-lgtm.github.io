@@ -3,11 +3,28 @@ const translations ={
         tittle: "CV JOB ETUDIANT",
         desc: "EXPERIENCES PROFESSIONNELLES",
         btn:"2023 Aide ponctuelle",
+        msg:"2022 BENEVOLAT",
+        pt:"LANGUES PARLEES",
+        fr:"Français(courant et écrit)",
+        ang:"Anglais(debutant)",
+        crd:"COORDONNEES",
+        cls:"6e SECONDAIRE",
+        qurt:"Rue de Dave",
+        ct:"CENTRE D'INTERET",
     },
     en:{
         tittle: "STUDENT JOB CV",
         desc: "PROFESSIONNAL EXPERIENCES",
-        btn:"2023 One-off Assistance"
+        btn:"2023 One-off Assistance",
+        msg:"2022 VOLUNTEERING",
+        pt:"SPOKEN LANGUAGES",
+        fr:"French (fluent and written)",
+        ang:"English (beginner)",
+        crd:"CONTACT DETAILS",
+        cls:"SECONDARY 6",
+        qurt:"Dave Street",
+        ct:"CENTER OF INTEREST"
+
         
     },
     
