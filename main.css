@@ -43,7 +43,7 @@ button:hover {
 }
 
 img {
-  border-radius: 10px;
+  border-radius: 50%;
   border: 2px solid (rgb(190, 17, 130)); 
   width: 300px;
   height: 300px;
