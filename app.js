@@ -15,6 +15,7 @@ const translations ={
         mc:"Musique et culture",
         cp:"COMPETENCES",
         tsp:"Travailleur, serieux,polyvalent",
+        dsp:"DISPONIBLE TOUS LES WEEK-ENDS,CONGéS et VACANCES"
     },
     en:{
         tittle: "STUDENT JOB CV",
@@ -31,7 +32,8 @@ const translations ={
         sf:"Sport: Soccer",
         mc:"Music and culture",
         cp:"SKILLS",
-        tsp:"Hardworking, serious, versatile"
+        tsp:"Hardworking, serious, versatile",
+        dsp:"AVAILABLE EVERY WEEKEND, HOLIDAYS AND HOLIDAYS"
 
         
     },
