@@ -23,6 +23,9 @@ const translations ={
         exp:"VENTE DANS UN MAGASIN D'INTERMARCHé",
         ec:"Enregistrer des commandes",
         sd:"Scanner des produits et ranger les rayons",
+        dpb:"Diplomé en BAC1 général",
+        es:"Actuellement: 6e Secondaire",
+
 
 
     },
@@ -50,6 +53,8 @@ const translations ={
         exp:"SALE IN AN INTERMARCHÉ STORE",
         ec:"Save orders",
         sd:"Scan products and tidy shelves",
+        dpb:"Graduated in general BAC1",
+        es:"Currently: Secondary 6",
        
 
 
