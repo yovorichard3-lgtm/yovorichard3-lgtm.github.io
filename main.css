@@ -63,7 +63,31 @@ body {
   display: flex;
   flex-direction: row;
  }
+ main > aside {
+  width: 20vw;
+  min-width: 300px;
+  background-color: var(--bg-saide);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+ }
+ main > .content {
+  width: 80vw;
+ }
+ main > .aside,
+ main > .content {
+  padding: 20px;
+  min-width: 100vh;
+ }
 
+ main > saide > .More-Information {
+  margin-top: auto;
+ }
+ section.photo-info {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+ }
 profile-picture {
   width: 260px;
   height: 260px;
