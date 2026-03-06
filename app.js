@@ -27,6 +27,7 @@ const translations ={
         es:"Actuellement: 6e Secondaire",
         dsp:"DISPONIBILITéS",
         dyp:"Pour voir mes disponibilités,veuillez cliquez sur le button (DSP)",
+        ne:"Née le 02 Avril 1999"
        
 
 
@@ -61,6 +62,7 @@ const translations ={
         es:"Currently: Secondary 6",
         dsp:"AVAILABILITY",
         dyp:"To see my availability, please click on the button (DSP)",
+        ne:"Born April 2, 1999"
     
 
 
