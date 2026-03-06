@@ -2,8 +2,8 @@ const translations ={
     fr:{
         tittle: "CV JOB ETUDIANT",
         desc: "EXPERIENCES PROFESSIONNELLES",
-        btn:"2023 Aide ponctuelle",
-        msg:"2022 BENEVOLAT",
+        btn:"Débaler les stoks ",
+        msg:"Cassier",
         pt:"LANGUES PARLEES",
         fr:"Français(courant et écrit)",
         ang:"Anglais(debutant)",
@@ -16,12 +16,21 @@ const translations ={
         cp:"COMPETENCES",
         tsp:"Accueil, Conseil et orientation des clients,Vente et promotion des produits,Gestion de la caisse et des paiements",
         ps:"PHOTO SIMPLE",
+        jobtitle:"Etudiant",
+        mts:"Motivé, sérieux et à l’aise avec les clients. Capable de conseiller, vendre et contribuer aux objectifs commerciaux",
+        exp1:"VENTE DANS UN MAGASIN DE VETEMENTS ",
+        loc:"Namur(flawinne)",
+        exp:"VENTE DANS UN MAGASIN D'INTERMARCHé",
+        ec:"Enregistrer des commandes",
+        sd:"Scanner des produits et ranger les rayons",
+
+
     },
     en:{
         tittle: "STUDENT JOB CV",
         desc: "PROFESSIONNAL EXPERIENCES",
-        btn:"2023 One-off Assistance",
-        msg:"2022 VOLUNTEERING",
+        btn:"Unpack the stocks",
+        msg:"cashier",
         pt:"SPOKEN LANGUAGES",
         fr:"French (fluent and written)",
         ang:"English (beginner)",
@@ -34,6 +43,16 @@ const translations ={
         cp:"SKILLS",
         tsp:"Reception, Customer advice and guidance, Product sales and promotion, Cash and payment management",
         ps:"SIMPLE PHOTO",
+        jobtitle:"Student",
+        mts:"Motivated, serious and comfortable with customers. Able to advise, sell and contribute to business objectives",
+        exp1:"SALE IN A CLOTHING STORE",
+        loc:"Namur(flawinne)",
+        exp:"SALE IN AN INTERMARCHÉ STORE",
+        ec:"Save orders",
+        sd:"Scan products and tidy shelves",
+       
+
+
 
         
     },
