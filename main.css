@@ -6,7 +6,7 @@
   --btnbg:rgb(12, 208, 208);
   --btb:rgb(99, 10, 76);
   --color:#e00cb2; 
-  
+
   --margin-size:30px;
 }
 
@@ -24,18 +24,26 @@
 a {
   color:var(--color);
 }
+
+body {
+  background-color:var(--bg);
+  color:var(--text);
+  font-size: 1rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+}
 *{box-sizing: border-box;}
 body {
   padding: 0;
   margin: 0;
 }
 
-
-body {
-  background-color:var(--bg);
-  color:var(--text);
-  font-size: 1rem;
-}
 
 
 profile-picture {
