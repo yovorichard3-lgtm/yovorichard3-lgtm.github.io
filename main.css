@@ -239,5 +239,5 @@ section.work-experiences > .experience:not(:last-child) {
 footer {
   background-color: var(--bg-aside);
   width: 100vw;
-  padding: 20px;
+  padding:  5px 20px;
 }
