@@ -26,7 +26,8 @@ const translations ={
         dpb:"Diplomé en BAC1 général",
         es:"Actuellement: 6e Secondaire",
         ei:"Belgique",
-        date:"janvier decembre"
+        date:"janvier ",
+        date:"decembre"
 
 
 
@@ -59,8 +60,8 @@ const translations ={
         dpb:"Graduated in general BAC1",
         es:"Currently: Secondary 6",
         ei:"Belgium",
-        date:"january december",
-       
+        date:"january",
+       date:"december"
 
 
 
