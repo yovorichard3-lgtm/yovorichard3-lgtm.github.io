@@ -96,14 +96,8 @@ function applyTheme(theme) {
         if(value) el.textContent= value
     })
     const btnlang= document.querySelector("#btn-lang")
-    if (lang === "fr") {
-        btnlang.textContent = "en"
-    } else if (lang === "en") {
-        btnlang.textContent = "nld"
-    } else {
-        btnlang.textContent = "fr"
-    }
-}gd
+    btnlang.textContent= lang ==="fr"? "en": "fr"
+    }ee
  
 
 
