@@ -71,9 +71,6 @@ const translations ={
 
         
     },
-    nld:{
-        title:"CV van studentenjob",
-    }
     
 }
 
@@ -97,7 +94,7 @@ function applyTheme(theme) {
     })
     const btnlang= document.querySelector("#btn-lang")
     btnlang.textContent= lang ==="fr"? "en": "fr"
-    }ee
+    }
  
 
 
