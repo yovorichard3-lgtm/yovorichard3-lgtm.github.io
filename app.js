@@ -15,7 +15,7 @@ const translations ={
         sf:"Sport : Football",
         mc:"Musique et culture",
         cp:"COMPETENCES",
-        tsp:"Accueil, Conseil et orientation des clients,Vente et promotion des produits,Gestion de la caisse et des paiements",
+        tsp:",Gestion de la caisse et des paiements",
         ps:"PHOTO SIMPLE",
         jobtitle:"Etudiant",
         mts:"Doté d’un bon sens de l’organisation et d’un esprit d’équipe, je suis prêt à m’investir pleinement dans les missions qui me seront confiées. Désireux d’apprendre et de développer mes compétences, je fais preuve de rigueur et de détermination dans mon travail.",
@@ -71,6 +71,9 @@ const translations ={
 
         
     },
+    nld:{
+        title:"CV van studentenjob"
+    }
     
 }
 
@@ -93,7 +96,15 @@ function applyTheme(theme) {
         if(value) el.textContent= value
     })
     const btnlang= document.querySelector("#btn-lang")
-    btnlang.textContent= lang === "fr"? "en": "fr"
+   if (lang === "fr"){
+    btnlang.textcontent = "en"
+   }
+   else if (lang === "en"){
+    btnlang.textcontent = "nld"
+   }
+   else {
+        btnlang.textContent = "fr"
+    }
  }
  
 
