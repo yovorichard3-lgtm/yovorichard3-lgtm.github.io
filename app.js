@@ -1,6 +1,6 @@
 const translations ={
     fr:{
-        tittle: "CV JOB ETUDIANT",
+        jobTittle:"ETUDIANT",
         desc: "EXPERIENCES PROFESSIONNELLES",
         btn:"Vendeur / Employé polyvalent – Alimentation générale (Togo) ",
         msg:"Aide aux taches ménagères et babysitting",
@@ -37,14 +37,14 @@ const translations ={
 
     },
     en:{
-        tittle: "STUDENT JOB CV",
+        jobTittle:"STUDENT",
         desc: "PROFESSIONNAL EXPERIENCES",
         btn:"Seller / Multi-purpose employee – General food supply (Togo)",
         msg:"Help with housework and babysitting",
         pt:"SPOKEN LANGUAGES",
         fr:"French:fluent",
         pr:"profile",
-        ang:"English (beginner)",
+        ang:"English:A2",
         crd:"CONTACT DETAILS",
         cls:"SECONDARY 6",
         qurt:"street of dave 462",
