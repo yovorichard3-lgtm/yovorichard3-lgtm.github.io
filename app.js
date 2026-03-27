@@ -2,12 +2,12 @@ const translations ={
     fr:{
         tittle: "CV JOB ETUDIANT",
         desc: "EXPERIENCES PROFESSIONNELLES",
-        btn:"Débaler les stocks ",
-        msg:"Cassier",
+        btn:"Vendeur / Employé polyvalent – Alimentation générale (Togo) ",
+        msg:"Aide aux taches ménagères et babysitting",
         pt:"LANGUES PARLEES",
-        fr:"Français(courant et écrit)",
+        fr:"Français:courant ",
         pr:"Profil",
-        ang:"Anglais(debutant)",
+        ang:"Anglais:A2",
         crd:"COORDONNEES",
         cls:"6e SECONDAIRE",
         qurt:" Rue de dave 462",
@@ -21,14 +21,15 @@ const translations ={
         mts:"Doté d’un bon sens de l’organisation et d’un esprit d’équipe, je suis prêt à m’investir pleinement dans les missions qui me seront confiées. Désireux d’apprendre et de développer mes compétences, je fais preuve de rigueur et de détermination dans mon travail.",
         exp1:"Aide Ponctuelle",
         loc:"Namur(flawinne)",
-        exp:"VENTE DANS UN MAGASIN D'INTERMARCHé",
-        ec:"Enregistrer des commandes",
-        sd:"Scanner des produits et ranger les rayons",
-        dpb:"Diplomé en BAC1 général",
+        exp:"Bénévolat",
+        ec:"Organisation et rangement du magasin",
+        sd:"Participation à l'organisation'événements sportifs (football)",
+        dpb:"Diplomé en probatoire (option général)",
         es:"Actuellement: 6e Secondaire",
         dsp:"DISPONIBILITéS",
         dyp:"Pour voir mes disponibilités,veuillez cliquez sur le button (DSP)",
-        ne:"Née le 02 Avril 1999"
+        ne:"Née le 02 Avril 2008",
+        sta:"Stage de une semaine à ArkDevel(Informatique)Mars-2026",
        
 
 
@@ -38,10 +39,10 @@ const translations ={
     en:{
         tittle: "STUDENT JOB CV",
         desc: "PROFESSIONNAL EXPERIENCES",
-        btn:"Unpack the stocks",
-        msg:"cashier",
+        btn:"Seller / Multi-purpose employee – General food supply (Togo)",
+        msg:"Help with housework and babysitting",
         pt:"SPOKEN LANGUAGES",
-        fr:"French (fluent and written)",
+        fr:"French:fluent",
         pr:"profile",
         ang:"English (beginner)",
         crd:"CONTACT DETAILS",
@@ -57,14 +58,15 @@ const translations ={
         mts:"With good organizational skills and team spirit, I am ready to fully invest in the missions entrusted to me. Eager to learn and develop my skills, I demonstrate rigor and determination in my work.",
         exp1:"Occasional Help",
         loc:"Namur(flawinne)",
-        exp:"SALE IN AN INTERMARCHÉ STORE",
-        ec:"Save orders",
-        sd:"Scan products and tidy shelves",
-        dpb:"Graduated in general BAC1",
+        exp:"Volunteering",
+        ec:"Store organization and storage",
+        sd:"Participation in the organization of sporting events (football)",
+        dpb:"Graduated on probation (general option)",
         es:"Currently: Secondary 6",
         dsp:"AVAILABILITY",
         dyp:"To see my availability, please click on the button (DSP)",
-        ne:"Born April 2, 1999"
+        ne:"Born April 2, 2008",
+        sta:"One-week internship at ArkDevel (Computer Science) March-2026",
     
 
 
