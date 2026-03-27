@@ -1,6 +1,6 @@
 const translations ={
     fr:{
-        jobTittle:"ETUDIANT",
+        jobTitle:"ETUDIANT",
         desc: "EXPERIENCES PROFESSIONNELLES",
         btn:"Vendeur / Employé polyvalent – Alimentation générale (Togo) ",
         msg:"Aide aux taches ménagères et babysitting",
@@ -37,7 +37,7 @@ const translations ={
 
     },
     en:{
-        jobTittle:"STUDENT",
+        jobTitle:"STUDENT",
         desc: "PROFESSIONNAL EXPERIENCES",
         btn:"Seller / Multi-purpose employee – General food supply (Togo)",
         msg:"Help with housework and babysitting",
