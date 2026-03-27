@@ -9,6 +9,7 @@ const translations ={
         pr:"Profil",
         ang:"Anglais:A2",
         crd:"COORDONNEES",
+        at:"A propos de moi",
         cls:"6e SECONDAIRE",
         qurt:" Rue de dave 462",
         ct:"CENTRE D'INTERET",
@@ -30,6 +31,7 @@ const translations ={
         dyp:"Pour voir mes disponibilités,veuillez cliquez sur le button (DSP)",
         ne:"Née le 02 Avril 2008",
         sta:"Stage de une semaine à ArkDevel(Informatique)Mars-2026",
+        apm:"Jeune motivé, sérieux et polyvalent, avec une expérience en vente en alimentation générale au Togo. J’ai appris à accueillir et conseiller les clients, gérer la vente de produits, assurer la mise en rayon, le rangement et le réapprovisionnement. Cette expérience m’a permis de développer un bon sens du contact, une bonne organisation et la capacité de travailler rapidement, même en période de forte affluence. Je suis également capable de travailler dans le secteur de la restauration en effectuant différentes tâches comme l’aide en cuisine, la plonge, le nettoyage et l’entretien du matériel. Dynamique, ponctuel et discipliné, je m’adapte facilement et je suis prêt à apprendre pour évoluer dans un environnement professionnel en Belgique.",
        
 
 
@@ -45,6 +47,7 @@ const translations ={
         fr:"French:fluent",
         pr:"profile",
         ang:"English:A2",
+        at:"About me",
         crd:"CONTACT DETAILS",
         cls:"SECONDARY 6",
         qurt:"street of dave 462",
@@ -67,6 +70,7 @@ const translations ={
         dyp:"To see my availability, please click on the button (DSP)",
         ne:"Born April 2, 2008",
         sta:"One-week internship at ArkDevel (Computer Science) March-2026",
+        apm:"Young motivated, serious and versatile person, with experience in general food sales in Togo. I learned to welcome and advise customers, manage the sale of products, ensure shelving, storage and replenishment. This experience allowed me to develop good communication skills, good organization and the ability to work quickly, even in busy periods. I am also able to work in the catering sector carrying out different tasks such as helping in the kitchen, washing, cleaning and maintaining equipment. Dynamic, punctual and disciplined, I adapt easily and I am ready to learn to evolve in a professional environment in Belgium.",
     
 
 
