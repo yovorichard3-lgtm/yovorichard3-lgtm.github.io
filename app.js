@@ -102,7 +102,20 @@ function applyTheme(theme) {
     btnlang.textContent= lang ==="fr"? "en": "fr"
     }
  
+const btnProjets = document.getElementById('btn-projets');
+const zoneProjets = document.getElementById('zone-projets');
 
+btnProjets.addEventListener('click', function() {
+  // toggle permet d'afficher ou de cacher à chaque clic
+  zoneProjets.classList.toggle('hidden');
+  
+  // On change le texte du bouton selon l'état
+  if (zoneProjets.classList.contains('hidden')) {
+    btnProjets.textContent = "Voir ce que je prépare";
+  } else {
+    btnProjets.textContent = "Masquer mes prépas";
+  }
+});
 
 
 
